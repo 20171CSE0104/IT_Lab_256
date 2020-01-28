@@ -1,0 +1,2 @@
+﻿Welcome to Fun with IT lab. 
+We code and implement functional websites. 
